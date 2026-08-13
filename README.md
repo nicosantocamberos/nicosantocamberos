@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Juan Nicolás González
 
-<!--
-**nicosantocamberos/nicosantocamberos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist focused on Machine Learning, Applied AI, and Data Analytics.
 
-Here are some ideas to get you started:
+I work mainly with Python and SQL, with experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning and statistical modeling
+- Predictive and probabilistic modeling
+- Data analysis and time-series
+- LLMs and RAG-based applications
+- Data pipelines and cloud-based analytics with GCP
+
+## Featured Project
+
+### Bank Customer Churn Prediction
+
+Machine learning project focused on customer churn prediction, including exploratory data analysis, feature engineering, model development, evaluation, and interpretation.
