@@ -22,4 +22,4 @@ Python · SQL · Scikit-learn · Pandas · NumPy · XGBoost · SciPy · Statsmod
 
 Machine learning project focused on customer churn prediction, including exploratory data analysis, feature engineering, model comparison, stability analysis, and a FastAPI service for real-time predictions.
 
-[View project →] https://github.com/nicosantocamberos/Churn-de-clientes-bancarios
+[View project →](https://github.com/nicosantocamberos/Churn-de-clientes-bancarios)
