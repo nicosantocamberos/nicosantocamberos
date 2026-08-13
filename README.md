@@ -2,7 +2,9 @@
 
 Data Scientist focused on Machine Learning, Applied AI, and Data Analytics.
 
-I work mainly with Python and SQL, with experience in:
+I work mainly with Python and SQL, with experience developing analytical workflows, predictive and probabilistic models, and data solutions in cloud environments.
+
+### Areas of work
 
 - Machine Learning and statistical modeling
 - Predictive and probabilistic modeling
@@ -10,8 +12,14 @@ I work mainly with Python and SQL, with experience in:
 - LLMs and RAG-based applications
 - Data pipelines and cloud-based analytics with GCP
 
-## Featured Project
+### Tools
 
-### Bank Customer Churn Prediction
+Python · SQL · Scikit-learn · Pandas · NumPy · XGBoost · SciPy · Statsmodels · BigQuery · GCP · Power BI
 
-Machine learning project focused on customer churn prediction, including exploratory data analysis, feature engineering, model development, evaluation, and interpretation.
+### Featured project
+
+**Bank Customer Churn Prediction**
+
+Machine learning project focused on customer churn prediction, including exploratory data analysis, feature engineering, model comparison, stability analysis, and a FastAPI service for real-time predictions.
+
+[View project →](YOUR_REPOSITORY_LINK)
